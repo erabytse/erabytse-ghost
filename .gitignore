@@ -1,0 +1,25 @@
+# Environnement virtuel
+venv/
+env/
+.venv/
+
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Artefacts générés (ne pas versionner)
+ghost_certificate.html
+*.pdf
+
+# Fichiers de test locaux
+test_email.txt
+temp/
+
+# Editeurs
+.vscode/
+.idea/

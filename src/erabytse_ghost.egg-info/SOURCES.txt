@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/erabytse/__init__.py
+src/erabytse/ghost.py
+src/erabytse_ghost.egg-info/PKG-INFO
+src/erabytse_ghost.egg-info/SOURCES.txt
+src/erabytse_ghost.egg-info/dependency_links.txt
+src/erabytse_ghost.egg-info/entry_points.txt
+src/erabytse_ghost.egg-info/top_level.txt
