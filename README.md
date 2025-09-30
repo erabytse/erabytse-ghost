@@ -22,4 +22,5 @@ erabytse-ghost --email moi@example.com --services github.com twitter.com
 📜 License
 MIT — used with intention.
 
-Part of erabytse — a quiet rebellion against digital waste.
+
+Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
