@@ -9,18 +9,22 @@
 - Every closure is a **ritual of gratitude**.
 
 ## ✨ Features (v0.1)
-- Generates **step-by-step RGPD guides** for popular services  
+- Generates **step-by-step RGPD-compliant guides** for popular services  
 - Creates a **Digital Death Certificate** (`ghost_certificate.html`)  
-- **100% offline** — no email scanning, no privacy risk  
-- Extendable database of deletion procedures
+- **100% offline** — no email scanning, no network calls, no privacy risk  
+- Extendable database of deletion procedures (easy to contribute)
 
 ## 🚀 Quick Start
 
-pip install -e .
-erabytse-ghost --email moi@example.com --services github.com twitter.com
+### Install from PyPI
+
+pip install erabytse-ghost
+
+erabytse-ghost --email moi@example.com --services github.com twitter.com 
 
 📜 License
 MIT — used with intention.
 
 
 Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
+
