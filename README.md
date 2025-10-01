@@ -22,9 +22,13 @@ pip install erabytse-ghost
 
 erabytse-ghost --email moi@example.com --services github.com twitter.com 
 
+* A ghost_certificate.html file will be generated in the current directory.
+  No data is ever sent online — everything stays on your machine. 
+
 📜 License
 MIT — used with intention.
 
 
 Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
+
 
