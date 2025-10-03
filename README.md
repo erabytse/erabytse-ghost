@@ -14,6 +14,18 @@
 - **100% offline** — no email scanning, no network calls, no privacy risk  
 - Extendable database of deletion procedures (easy to contribute)
 
+
+Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
+
+📜 License
+MIT — used with intention.
+
+Made with care, not with noise.
+
+## 💙 Support
+If you use and value this tool, consider supporting its development:  
+[![Sponsor](https://img.shields.io/badge/sponsor-erabytse-181717?logo=github)](https://github.com/sponsors/takouzlo)
+
 ## 🚀 Quick Start
 
 ### Install from PyPI
@@ -25,10 +37,6 @@ erabytse-ghost --email moi@example.com --services github.com twitter.com
 * A ghost_certificate.html file will be generated in the current directory.
   No data is ever sent online — everything stays on your machine. 
 
-📜 License
-MIT — used with intention.
 
-
-Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
 
 
